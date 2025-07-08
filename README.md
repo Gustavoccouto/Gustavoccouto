@@ -5,7 +5,6 @@
 
 </div>
 
-#### introdução
 ### Junior: Desenvolvedor Full-Stack
 **Gustavo** é um desenvolvedor, possuindo conhecimentos sólidos em diversas tecnologias voltadas para o desenvolvimento web. Cursou o terceiro ano do ensino médio técnico integrado em Informática para Internet.
 
